@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
+* 大家好，我是一卓
+* 金九银十，跳槽季，你是不是也在准备简历呢?
 * 说做就做，我也来写一份简历！
 */
 
@@ -115,34 +115,33 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `朱一卓
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+JAVA 研发工程师，技术经理，现在在 [博派通达](http://botpy.com) 做车主服务项目。
 
-技能
+个人优势
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* 将近3年带团队经验，带过十几人的团队
+* 责任心强，且具备较高的执行力
+* 参与项目立项到项目上线维护的全过程，有长期项目经验
+* 善于沟通，具备推动技术方案落地的能力
+* 学习能力较强
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [博派通达](http://jirengu.com)
+2. 欧非科技有限公司 [Opay](https://opayweb.com/) 项目渠道部
+3. 先锋支付有限公司 研发部
+4. [北京文思海辉金信软件有限公司](https://www.pactera.com/) 软件中心 中行 CIMS 项目
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+* [GitHub](https://github.com/zhuyizhuo)
+* [LeetCode](https://leetcode-cn.com/u/zhuyizhuo/)
 
 `
       }

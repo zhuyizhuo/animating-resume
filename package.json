@@ -1,7 +1,7 @@
 {
   "name": "resume-a-resume",
   "version": "1.0.0",
-  "description": "This is my resume",
+  "description": "一卓的在线简历",
   "author": " <>",
   "private": true,
   "scripts": {
