@@ -132,7 +132,7 @@ JAVA 研发工程师，技术经理，现在在 [博派通达](http://botpy.com)
 工作经历
 ----
 
-1. [博派通达](http://jirengu.com)
+1. [博派通达](http://botpy.com)
 2. 欧非科技有限公司 [Opay](https://opayweb.com/) 项目渠道部
 3. 先锋支付有限公司 研发部
 4. [北京文思海辉金信软件有限公司](https://www.pactera.com/) 软件中心 中行 CIMS 项目
